@@ -1,0 +1,9 @@
+.container-fluid {
+    height: 100vh; /* Set the container to full viewport height */
+  }
+  
+  .sidebar {
+    display: flex;
+    flex-direction: column;
+    height: 100%; /* Make the sidebar take up the full height of its parent */
+  }
